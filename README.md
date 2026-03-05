@@ -10,6 +10,7 @@ Passionate about building intelligent systems, exploring machine learning algori
 ## 🚀 About Me
 
 * 🎓 B.Tech in **Computer Science & Engineering**
+* 🧠 Specializing in **Artificial Intelligence & Machine Learning**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
 * 📊 Currently learning **Data Science, Feature Engineering, and ML Model Optimization**
 * 💻 Love building **Python applications and AI-based tools**
