@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramit Kumar Panda</h1>
-<h3 align="center">B.Tech CSE Student | AI & Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">B.Tech CSE Student | Specializing in AI & Machine Learning</h3>
 
 <p align="center">
 Passionate about building intelligent systems, exploring machine learning algorithms, and creating useful software projects.
@@ -10,7 +10,7 @@ Passionate about building intelligent systems, exploring machine learning algori
 ## 🚀 About Me
 
 * 🎓 B.Tech in **Computer Science & Engineering**
-* 🧠 Specializing in **Artificial Intelligence & Machine Learning**
+* 🏫 Studying in **Veer Surendra Sai University of Technology (VSSUT), Burla**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
 * 📊 Currently learning **Data Science, Feature Engineering, and ML Model Optimization**
 * 💻 Love building **Python applications and AI-based tools**
