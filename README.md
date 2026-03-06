@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramit Panda</h1>
+<h1 align="center">Hi 👋, I'm Pramit Kumar Panda</h1>
 <h3 align="center">B.Tech CSE Student | AI & Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
