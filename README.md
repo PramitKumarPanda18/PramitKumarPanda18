@@ -25,12 +25,14 @@ Passionate about building intelligent systems, exploring machine learning algori
 
 * Python
 * C
+* C++
 * JavaScript
 
 ### 📊 Data Science & ML
 
 * NumPy
 * Pandas
+* Tensorflow
 * Scikit-learn
 * Data Cleaning
 * Feature Engineering
